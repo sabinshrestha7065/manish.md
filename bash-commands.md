@@ -45,3 +45,7 @@
 ### clear
 
 > clear your terminal window
+
+### Grep
+
+> search
