@@ -2,7 +2,7 @@
 
 ## initialize a repository (repo)
 
-> git init - > This initializes an empty repository which means no files are tracked by git due to which you canno
+> git init - > This initializes an empty repository which means no files are tracked by git due to which you cannot.
 
 ## check status
 
@@ -39,6 +39,7 @@
 **used codes** steps to be done in a fresh repository.
 
 ```
+
 git init
 git add .
 git status
@@ -50,7 +51,7 @@ git push -u origin master
 
 steps to done after a repository is already setup
 
-``` 
+```
 
 git status
 git add .
