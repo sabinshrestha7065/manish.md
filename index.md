@@ -2,28 +2,28 @@
 
 > i am manish shrestha.
 > i am live in kathmandu.
-> i am single.
+> i study in shree gamvir samudar setu secondary school.
 
-## practice of table in md
+## Markdown
 
-### HIMAL KHAJA GHAR
+## Git
 
-#### Cash-bill
+> Git is local project when every people work that placed.
 
-> Date:...../...../......../
-> Cosutomer Name:.....................
-> Cosutomer Address:..................
-> Cosutomer Phone number:..............
+## Github
 
-|S.N. | Name of items | QTY | Price| Amount |
-|:-----|:------------|:-------|:-----|:--------|
-|1.| chicken chowmein|1|120|120|
-|2.|
-|3.|
-|4.|
-|5.|
-|6.|
-|7.|
-|8.|
-|9.|
-|10.|
+> Github is cloud this is network assits in projects. people where kept in important documents.
+
+### git commands
+
+- git init
+
+- git status
+
+- git add .
+
+- git commit -m `"type the message"` `URL`
+
+- git remote origin master  URL
+
+- git push
