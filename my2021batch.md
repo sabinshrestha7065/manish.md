@@ -94,5 +94,3 @@
 #### Git log
 
 >The git log command is used to view the previous commits that have taken places in the git project. when the list appears on the srceen, it shows the reverse chronological order.
-
-
